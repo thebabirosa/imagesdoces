@@ -1,0 +1,28 @@
+IMAGENS EXTRAÍDAS DO PDF - MAPEAMENTO
+
+Página 2 - Brigadeiros especiais
+- brig_chocolate.png
+- brig_ferrero.png
+- brig_red_velvet.png
+- brig_pistache.png
+- brig_lolo.png
+- brig_abacaxi_coco.png
+- brig_limone.png
+
+Página 3 - Copinhos
+- copinho_ninho_morango.png
+- copinho_romeu_julieta.png
+- copinho_maracuja.png
+- copinho_abacaxi_coco.png
+- copinho_gorgonzola.png
+
+Página 4 - Flores e mini brownies
+- flor_de_sogra.png
+- flor_de_damasco.png
+- brownie_doce_de_leite.png
+- brownie_chocolate.png
+
+Página 5 - Trufas e doces com frutas
+- trufa_de_limao.png
+- uvinha.png
+- coxinha_de_morango.png
